@@ -44,7 +44,7 @@ Install Git for Windows if you haven't already. Either:
 - Install with Chocolatey - see [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 - OR Install Git for Windows from <https://git-scm.com/download/win>. The 64-bit version is recommended for most users.
 
-## Set up Git
+### Set up Git
 
 Configure Git with your full name and email address.
 
